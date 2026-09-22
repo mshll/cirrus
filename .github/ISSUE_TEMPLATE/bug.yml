@@ -24,7 +24,7 @@ body:
     id: version
     attributes:
       label: Umber version
-      description: Settings > About. Click the version to copy it.
+      description: Settings > About. Filled in when you report from there.
     validations:
       required: true
   - type: input

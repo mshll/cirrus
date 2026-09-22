@@ -9,9 +9,9 @@
 <p align="center">
   <a href="https://tryumber.app">tryumber.app</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/mshll/umber-releases/releases/latest/download/Umber.dmg">Download</a>
+  <a href="https://github.com/mshll/umber/releases/latest/download/Umber.dmg">Download</a>
 </p>
 
 <p align="center">
-  <sub>Downloads only. No source here.</sub>
+  <sub>Downloads and feedback. No source here.</sub>
 </p>

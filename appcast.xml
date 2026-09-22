@@ -3,122 +3,14 @@
     <channel>
         <title>Umber</title>
         <item>
-            <title>0.1.0-beta.9</title>
-            <pubDate>Sun, 20 Sep 2026 19:31:34 +0300</pubDate>
+            <title>0.1.0</title>
+            <pubDate>Wed, 23 Sep 2026 02:30:53 +0300</pubDate>
             <link>https://tryumber.app</link>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.9</sparkle:shortVersionString>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/umber-releases/main/notes/Umber-0.1.0-beta.9.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.9/Umber.dmg" length="8217078" type="application/octet-stream" sparkle:edSignature="sre891L4dpkimVRNY1O6OTezyyeQ/TO9kuucF7WXNv9AbuHWyB/QoRZaXEe6/OjtJVE+iG0+eD3kCqW2iliHBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.9/Umber9-8.delta" sparkle:deltaFrom="8" length="786722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9FsJve4z4Skgekw79d1MyGVZCaCZN+sqSuxBrpbFPwUIfK7dL58vA//KbbeW7atmdEpktyCQ/K7smnsvRGgoBQ=="/>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.9/Umber9-7.delta" sparkle:deltaFrom="7" length="865790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JEdDpJqtRLiwBNBC+EVumWwEuPo7OD1cuC4AsYqnejsdaSlk3qHTfXLXGPQRLZ+VVM+bBsH4eB1NTe31Yg/bAQ=="/>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.9/Umber9-6.delta" sparkle:deltaFrom="6" length="1184218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="64b/5VTN8aRSyY+6K4OEjPeQLr3HYQNf3hfkIbjVqWe8q606jFj3Kzq5I5V9QPCYAXEpzkz9zsS1RphH/LejAw=="/>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.9/Umber9-5.delta" sparkle:deltaFrom="5" length="1300334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3SCOinImQM2u/pID2eqx7Ai2bUfsCEwUoE715i2/DlvBU0FW1nseeDes28kxtrDygN+U/09InpHqYYQCoAZeCg=="/>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.9/Umber9-4.delta" sparkle:deltaFrom="4" length="1343202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="R5k1mjhSNjkcgT6Km7KyWRZtAXjv7oJxu5F/B6Y01dgK4+uvnZPKVZqtAq5hRHKfCyv/bRl25VZOGYf9YTqdAg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.0-beta.8</title>
-            <pubDate>Sun, 20 Sep 2026 12:40:58 +0300</pubDate>
-            <link>https://tryumber.app</link>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/umber-releases/main/notes/Umber-0.1.0-beta.8.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.8/Umber.dmg" length="8129176" type="application/octet-stream" sparkle:edSignature="yH5T2/7oFj4P3vXt0+agsAIG8oMkr1aMRghIROz0n11pdfZWQIHSae8TexCX0Fv5U5fjT51ZNIqeZS2gXsGJAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.8/Umber8-7.delta" sparkle:deltaFrom="7" length="623574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="82EjAH+RQw5X2hlNx/q4MrMDkC3tNJyxlfBn5lrLklt0DK4y7lPxSoBlwYOVaBXOBNe8UgFUWUwQoYHmuqBgBw=="/>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.8/Umber8-6.delta" sparkle:deltaFrom="6" length="1083710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P2SeMUPFZ7BwC5hz8GYjaOv6i8qzJcWTDYNZIMVC1I4LxmBvEhSZVKfOAACzkSF9tMEZ/KFdNFIaTT4xlEPSDA=="/>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.8/Umber8-5.delta" sparkle:deltaFrom="5" length="1207686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+1CpqIVpQZn7H4Om/M9/CrU4pbeFDpDa6Ofug8hif2e/u2ItWRMKffsr3sIZxAVQZCMbMw9xsy/8SjQiR/ZxDg=="/>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.8/Umber8-4.delta" sparkle:deltaFrom="4" length="1258182" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="y/YsqvdPbrS78e9Adj64p59879xgQePd83Qw8g0zKLXdLslsL8uMQhX8IkDf+mEvLk56xAeRd0UJCxfaicMwAA=="/>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.8/Umber8-3.delta" sparkle:deltaFrom="3" length="1339518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H77dAGAWN2R+L5HdKK/9wAx4VL927onv9lcj+6LgvEs/FeXzSA4vwsqexBrWqjz/ZPFivrwyxAT3cglKBj00Aw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.0-beta.7</title>
-            <pubDate>Sun, 20 Sep 2026 00:43:24 +0300</pubDate>
-            <link>https://tryumber.app</link>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/umber-releases/main/notes/Umber-0.1.0-beta.7.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.7/Umber.dmg" length="8037202" type="application/octet-stream" sparkle:edSignature="LebvbMKh5Q4sxSKooKk06XTWnmdYB2oC6hzZmt2Ehy46ws7ixNjet+b+RohOhtpGwfEb7f1B+oGCgrYc/HDNBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.7/Umber7-6.delta" sparkle:deltaFrom="6" length="1019166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9LMNuBp1wYPUORwrWw8it0NVkA0Yv0gVylNIwMuu22ASNEcTXqIHtTHpC1zBnt/r/g6RjYZWwtB9kp2GddAIBg=="/>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.7/Umber7-5.delta" sparkle:deltaFrom="5" length="1141958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qzMV4rYIaQjrsXB6zOIRRl5rVMHz08QQiMsNjade77f/GAAxxNnxm26dsLzeTRbWLc/kY8na2V2dQE/T4jpeBQ=="/>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.7/Umber7-4.delta" sparkle:deltaFrom="4" length="1195346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7XwtVJPEOWFo02lB8y+OfuK+tJAgXalOQpxzl9nxvn/Aa/EFNQdkMkWc7ER+iOTyVfS3T7EEVX4V12XNWNDDCQ=="/>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.7/Umber7-3.delta" sparkle:deltaFrom="3" length="1271190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VHDlp/2V+33bEGvSGkYk5M9ZJTeOwSiqwbqA3tT5Qw1oCuZI0G22yag12leKBQelgI8weXr+raKphxFA7gSABw=="/>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.7/Umber7-2.delta" sparkle:deltaFrom="2" length="1276806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1vVAUIiahwX9tTD4PBYXYEITxPzLqbsGOhhW7jl9pUMv7bw/Qlr1GoW1/4Pwd5QuWa26LM3FJyuE9239YugcDg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.0-beta.6</title>
-            <pubDate>Sat, 19 Sep 2026 05:24:05 +0300</pubDate>
-            <link>https://tryumber.app</link>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/umber-releases/main/notes/Umber-0.1.0-beta.6.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.6/Umber.dmg" length="7661380" type="application/octet-stream" sparkle:edSignature="LeFNbxMSBnwjh84eGTVI7q0PY9jlHfpUp8+bNa9c68uBtrXO3FDE7yKt5lXhRgRPeUIlKsj6/BUA2AToD1OLBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.6/Umber6-5.delta" sparkle:deltaFrom="5" length="676942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tZbnPQSddwo38bRgaBUnyn0D+mfiedWhbo14HdwvhkLWkFS5lbaOV76en2kCoTAnkozvacSI0WbsD1MCaxzeDw=="/>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.6/Umber6-4.delta" sparkle:deltaFrom="4" length="800754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TBp9z4WqdKzBmtE1cqZX5IC2AxGQ6SErIpAy83/IuHhm6ozvJ8k9Bq2ShbfXupnDGi96sC+nbmchzgazPLivAg=="/>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.6/Umber6-3.delta" sparkle:deltaFrom="3" length="909546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tn+wPv7Ud2s1IVD7KZULbZQdt/PYExdVcy+sCs0RjDXqtgu8PMvUhKGOyDkSc/O0ACNq7PCp4PeNn1bOOrq/BA=="/>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.6/Umber6-2.delta" sparkle:deltaFrom="2" length="918406" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EwBePsHpam4h4YmJ2FxdwMYNpYxGqLqt73sEyPMxDwd+pzf+ymF6H36nea0lB7SWR6CGNgpnYb3oKx01QWeHAA=="/>
-                <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.6/Umber6-1.delta" sparkle:deltaFrom="1" length="919326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nMvMI7oxKv2B04KZ5jifZAkLDZY5GdvUVuj8/B/SJVFSl9LUsQHfyU9LeApvAszkUnrsmONldcMMF0o3Gt6zDA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.0-beta.5</title>
-            <pubDate>Sat, 19 Sep 2026 02:35:15 +0300</pubDate>
-            <link>https://tryumber.app</link>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/umber-releases/main/notes/Umber-0.1.0-beta.5.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.5/Umber.dmg" length="7566716" type="application/octet-stream" sparkle:edSignature="NDiSsRXXkbmq8n+LrUpMhbxEi0f66B5Qzv6QkrL3wGm5PXN/2JD+x0tJSBmxgNZuYRxZMoRHm7LDv7Zaps2mDA=="/>
-        </item>
-        <item>
-            <title>0.1.0-beta.4</title>
-            <pubDate>Fri, 18 Sep 2026 22:57:18 +0300</pubDate>
-            <link>https://tryumber.app</link>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/umber-releases/main/notes/Umber-0.1.0-beta.4.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.4/Umber.dmg" length="7465616" type="application/octet-stream" sparkle:edSignature="BuowyxgRbpE/1K4nQ0a0B1/fGjR5ywgvVfvU9ZZgEQHwLK7Jz9D0EO5QLSDFEPbcGyNFnRO+6FyGFdvrJGO5Dw=="/>
-        </item>
-        <item>
-            <title>0.1.0-beta.3</title>
-            <pubDate>Thu, 17 Sep 2026 01:11:25 +0300</pubDate>
-            <link>https://tryumber.app</link>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/umber-releases/main/notes/Umber-0.1.0-beta.3.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.3/Umber.dmg" length="7351261" type="application/octet-stream" sparkle:edSignature="mxKoYW69OCicAl2jnAo3t2mompCAA/GWjWXI1zMeEfNzGpmVaSsgGd4PoHRNwv1QxmGjZAn/RL6CGhRNXfh4DA=="/>
-        </item>
-        <item>
-            <title>0.1.0-beta.2</title>
-            <pubDate>Thu, 17 Sep 2026 00:44:07 +0300</pubDate>
-            <link>https://tryumber.app</link>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/umber-releases/main/notes/Umber-0.1.0-beta.2.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.2/Umber.dmg" length="6731264" type="application/octet-stream" sparkle:edSignature="UjymQBWYDQpzr/pAukRtw8ZirSiJZOr+A0tXNu4ESIC9FIcm16QTBJ690VOHqSNuDe7Y6pgK+cppzaLNHfTrAw=="/>
-        </item>
-        <item>
-            <title>0.1.0-beta.1</title>
-            <pubDate>Thu, 17 Sep 2026 00:04:43 +0300</pubDate>
-            <link>https://tryumber.app</link>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/umber-releases/main/notes/Umber-0.1.0-beta.1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mshll/umber-releases/releases/download/v0.1.0-beta.1/Umber.dmg" length="6725165" type="application/octet-stream" sparkle:edSignature="YuiX1QCoXc50qIHqyjCyzcbJtOlJkJ1PTN67TpCSZcfafZ7AFYVjTtUvihdeLwK2WhFBTFnS8Ab1cvJkqCKVAQ=="/>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/umber/main/notes/Umber-0.1.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/mshll/umber/releases/download/v0.1.0/Umber.dmg" length="16518839" type="application/octet-stream" sparkle:edSignature="bvHuMbx4GxIVdEHZRM3VhD/3W9wUFUygnmEia8XfiFXNqygFSvfGpbjd9cAlmDs33SyccX5mq99Zpm+NsOZnCA=="/>
         </item>
     </channel>
 </rss>

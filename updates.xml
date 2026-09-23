@@ -3,6 +3,20 @@
     <channel>
         <title>Umber</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Thu, 24 Sep 2026 02:48:47 +0300</pubDate>
+            <link>https://tryumber.app</link>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/umber/main/notes/Umber-0.2.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/mshll/umber/releases/download/v0.2.1/Umber.dmg" length="17600789" type="application/octet-stream" sparkle:edSignature="n0G+sMG22xDL2wPW6bP73NDTP5UYuXsf+kAf8lH7ldwcmVb7pt+ovf0KKmTcN5WcDDUV8xq4h46pLJ+Wunm+Bw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/mshll/umber/releases/download/v0.2.1/Umber12-11.delta" sparkle:deltaFrom="11" length="1778046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KRArtHUK8HVz1w8WvFRCXBjR72s5CpdJ7hFap9oQ4q59/bfTXQJTsZZnCqiL8VecTcGfG3aqGbTQnW96zeioBw=="/>
+                <enclosure url="https://github.com/mshll/umber/releases/download/v0.2.1/Umber12-10.delta" sparkle:deltaFrom="10" length="3189966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r0SzQ3XEqXegaFD8sm+dyYOiA8a12zAxCZ/mJ5auIPrh4bstIYVZSgVbWRTBFFdBDJSNcSyz01WJh+el+2XzDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Wed, 23 Sep 2026 21:13:36 +0300</pubDate>
             <link>https://tryumber.app</link>

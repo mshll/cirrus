@@ -10,7 +10,7 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/umber/main/notes/Umber-0.1.0.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mshll/umber/releases/download/v0.1.0/Umber.dmg" length="15753202" type="application/octet-stream" sparkle:edSignature="z4P8JHGFCaTy+6OQ+aukPmciB6knrpC5mit0SyNlQhHsfIq9ue8THCyl98EJWJgyMsUiMHxP8PdHPwMk/C9TAw=="/>
+            <enclosure url="https://github.com/mshll/umber/releases/download/v0.1.0/Umber.dmg" length="16990828" type="application/octet-stream" sparkle:edSignature="D8e5suhhZ6xDmfO93LFvCC7cCxVkrQcuqFHdlAPc20XQGHE59bLuM283Z0oJDkoKXbTOlNX+Y1KURWRD47arCA=="/>
         </item>
     </channel>
 </rss>

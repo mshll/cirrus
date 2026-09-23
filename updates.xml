@@ -3,6 +3,19 @@
     <channel>
         <title>Umber</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Wed, 23 Sep 2026 21:13:36 +0300</pubDate>
+            <link>https://tryumber.app</link>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/umber/main/notes/Umber-0.2.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/mshll/umber/releases/download/v0.2.0/Umber.dmg" length="17568891" type="application/octet-stream" sparkle:edSignature="dbtuNs6h8+YyARSF48KKarIOThqomSs8M++P+TnLKujS6V+rAlEJxoDxWo11CykvvMvuCZZXuMP0WgAt77bICQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/mshll/umber/releases/download/v0.2.0/Umber11-10.delta" sparkle:deltaFrom="10" length="3134586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FQ+Dl3ydg2XlgbSD7+fbZQy0XvzQ3bPuSRDlojkU9t+15f/LF7zIqCgvyFXSMm4iY4BSCPAeW5gg9MK3yqhNAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Wed, 23 Sep 2026 09:15:31 +0300</pubDate>
             <link>https://tryumber.app</link>

@@ -3,17 +3,32 @@
     <channel>
         <title>Umber</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Thu, 24 Sep 2026 21:19:54 +0300</pubDate>
+            <link>https://trycirrus.app</link>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/cirrus/main/notes/Cirrus-0.3.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/mshll/cirrus/releases/download/v0.3.0/Cirrus.dmg" length="17861139" type="application/octet-stream" sparkle:edSignature="OqXSv8j+yIjNMAP9+Mr28ogv0lU6WyPD2FzViwrfY035l+0YngE0hMIXXINKkh3OQdbAtvw3MNM5NdzCn4j7AQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/mshll/cirrus/releases/download/v0.3.0/Cirrus14-12.delta" sparkle:deltaFrom="12" length="7718294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PBTotS7kEWAJiSuPLd7LqntGBo/u7vPYjdpkbM7x2d4+gxs9kC9uXg7IR+clLTlFboHKDDhGgRJcgZaoaiN4AQ=="/>
+                <enclosure url="https://github.com/mshll/cirrus/releases/download/v0.3.0/Cirrus14-11.delta" sparkle:deltaFrom="11" length="7723642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/7fG49tzi/77XNzXxVcK5kkO4up3KJAKyF2FmNdC9vJ/ySfyj+odDqFgK+YVdz7XE6wZAa8ULn96P0s6ILk+Dg=="/>
+                <enclosure url="https://github.com/mshll/cirrus/releases/download/v0.3.0/Cirrus14-10.delta" sparkle:deltaFrom="10" length="7824946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Fidn8Ka7LDZJ6IbN47vxo88xdXekEAVFhDU0OCSdtPupCvETvDOAEaAS98qPoX0Njqk+qnVV8MgiBFQ4Wud0Ag=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Thu, 24 Sep 2026 02:48:47 +0300</pubDate>
             <link>https://tryumber.app</link>
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/umber/main/notes/Umber-0.2.1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mshll/umber/releases/download/v0.2.1/Umber.dmg" length="17600789" type="application/octet-stream" sparkle:edSignature="n0G+sMG22xDL2wPW6bP73NDTP5UYuXsf+kAf8lH7ldwcmVb7pt+ovf0KKmTcN5WcDDUV8xq4h46pLJ+Wunm+Bw=="/>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/cirrus/main/notes/Umber-0.2.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/mshll/cirrus/releases/download/v0.2.1/Umber.dmg" length="17600789" type="application/octet-stream" sparkle:edSignature="n0G+sMG22xDL2wPW6bP73NDTP5UYuXsf+kAf8lH7ldwcmVb7pt+ovf0KKmTcN5WcDDUV8xq4h46pLJ+Wunm+Bw=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/mshll/umber/releases/download/v0.2.1/Umber12-11.delta" sparkle:deltaFrom="11" length="1778046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KRArtHUK8HVz1w8WvFRCXBjR72s5CpdJ7hFap9oQ4q59/bfTXQJTsZZnCqiL8VecTcGfG3aqGbTQnW96zeioBw=="/>
-                <enclosure url="https://github.com/mshll/umber/releases/download/v0.2.1/Umber12-10.delta" sparkle:deltaFrom="10" length="3189966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r0SzQ3XEqXegaFD8sm+dyYOiA8a12zAxCZ/mJ5auIPrh4bstIYVZSgVbWRTBFFdBDJSNcSyz01WJh+el+2XzDg=="/>
+                <enclosure url="https://github.com/mshll/cirrus/releases/download/v0.2.1/Umber12-11.delta" sparkle:deltaFrom="11" length="1778046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KRArtHUK8HVz1w8WvFRCXBjR72s5CpdJ7hFap9oQ4q59/bfTXQJTsZZnCqiL8VecTcGfG3aqGbTQnW96zeioBw=="/>
+                <enclosure url="https://github.com/mshll/cirrus/releases/download/v0.2.1/Umber12-10.delta" sparkle:deltaFrom="10" length="3189966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r0SzQ3XEqXegaFD8sm+dyYOiA8a12zAxCZ/mJ5auIPrh4bstIYVZSgVbWRTBFFdBDJSNcSyz01WJh+el+2XzDg=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -23,10 +38,10 @@
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/umber/main/notes/Umber-0.2.0.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mshll/umber/releases/download/v0.2.0/Umber.dmg" length="17568891" type="application/octet-stream" sparkle:edSignature="dbtuNs6h8+YyARSF48KKarIOThqomSs8M++P+TnLKujS6V+rAlEJxoDxWo11CykvvMvuCZZXuMP0WgAt77bICQ=="/>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/cirrus/main/notes/Umber-0.2.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/mshll/cirrus/releases/download/v0.2.0/Umber.dmg" length="17568891" type="application/octet-stream" sparkle:edSignature="dbtuNs6h8+YyARSF48KKarIOThqomSs8M++P+TnLKujS6V+rAlEJxoDxWo11CykvvMvuCZZXuMP0WgAt77bICQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/mshll/umber/releases/download/v0.2.0/Umber11-10.delta" sparkle:deltaFrom="10" length="3134586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FQ+Dl3ydg2XlgbSD7+fbZQy0XvzQ3bPuSRDlojkU9t+15f/LF7zIqCgvyFXSMm4iY4BSCPAeW5gg9MK3yqhNAQ=="/>
+                <enclosure url="https://github.com/mshll/cirrus/releases/download/v0.2.0/Umber11-10.delta" sparkle:deltaFrom="10" length="3134586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FQ+Dl3ydg2XlgbSD7+fbZQy0XvzQ3bPuSRDlojkU9t+15f/LF7zIqCgvyFXSMm4iY4BSCPAeW5gg9MK3yqhNAQ=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -36,8 +51,8 @@
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/umber/main/notes/Umber-0.1.0.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/mshll/umber/releases/download/v0.1.0/Umber.dmg" length="16990828" type="application/octet-stream" sparkle:edSignature="D8e5suhhZ6xDmfO93LFvCC7cCxVkrQcuqFHdlAPc20XQGHE59bLuM283Z0oJDkoKXbTOlNX+Y1KURWRD47arCA=="/>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/cirrus/main/notes/Umber-0.1.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/mshll/cirrus/releases/download/v0.1.0/Umber.dmg" length="16990828" type="application/octet-stream" sparkle:edSignature="D8e5suhhZ6xDmfO93LFvCC7cCxVkrQcuqFHdlAPc20XQGHE59bLuM283Z0oJDkoKXbTOlNX+Y1KURWRD47arCA=="/>
         </item>
     </channel>
 </rss>

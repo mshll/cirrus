@@ -1,10 +1,10 @@
 name: Bug report
-description: Something in Umber is broken.
+description: Something in Cirrus is broken.
 labels: [bug]
 body:
   - type: markdown
     attributes:
-      value: Issues are public. Do not paste private note contents or personal file paths. To report privately, email hello@meshal.me.
+      value: Issues are public. Do not paste private note contents or personal file paths. To report privately, email contact@trycirrus.app.
   - type: textarea
     id: what
     attributes:
@@ -23,7 +23,7 @@ body:
   - type: input
     id: version
     attributes:
-      label: Umber version
+      label: Cirrus version
       description: Settings > About. Filled in when you report from there.
     validations:
       required: true

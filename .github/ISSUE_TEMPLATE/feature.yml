@@ -1,5 +1,5 @@
 name: Feature request
-description: A specific change you want in Umber.
+description: A specific change you want in Cirrus.
 labels: [enhancement]
 body:
   - type: textarea

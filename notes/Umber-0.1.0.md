@@ -1,6 +1,10 @@
 
 Introducing Umber: notes that float above everything on your Mac. Press ⌥⌘N in any app, write it down, and press Escape to get back to work.
 
+Coming from a beta? Your notes are still in the folder you chose. Import them from Settings, Sync & Data.
+
+### New
+
 - Notes sync between your Macs through your own iCloud. No account, and no server in between.
 - Keep a small pill on any edge of the screen, or let the notch be the pill. Hover to peek at your notes, click to write.
 - Markdown without the clutter: headings, checklists, five highlight colours, images, syntax-coloured code, and tables you edit in place.
@@ -12,5 +16,3 @@ Introducing Umber: notes that float above everything on your Mac. Press ⌥⌘N 
 - The new-note template can use `{{date}}`, `{{time}}`, and `{{datetime}}`.
 - Export every note as Markdown files whenever you like, and Umber keeps a daily backup of your notes for the last seven days.
 - Free for three notes, and the welcome note does not count until you edit it. Umber Pro unlocks unlimited notes with a one-time purchase: the thanks page activates it in one click, and the key reaches your other Macs through iCloud Keychain.
-
-Coming from a beta? Your notes are still in the folder you chose. Import them from Settings, Sync & Data.

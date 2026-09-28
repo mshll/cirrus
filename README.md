@@ -35,7 +35,7 @@ Press `⌃⌘N` from any app and a note appears over whatever you're doing. Writ
 brew install --cask mshll/tap/cirrus
 ```
 
-Requires macOS 26 or later. Updates install from inside the app.
+Requires macOS 14 or later. Updates install from inside the app.
 
 ## Feedback
 

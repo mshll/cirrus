@@ -1,19 +1,12 @@
 
-Tidier notes, steadier toasts, and a panel that stays where you put it.
+Quicker new notes and links that follow renames.
 
 ### New
 
-- Command-click the edge pill, or the notch, to start a new note.
-- Renaming a note points its `[[links]]` at the new title.
+- Command-click the edge pill or notch to start a new note.
+- Renaming a note updates the links to it.
 
 ### Improved
 
-- A resized panel stays where you left it, narrows to 420 pt, and stops at the editor's line width, where extra width only added margin. Full Width is still unbounded.
-- Asking for a new note while the open one is empty brings that one forward instead of making another. A note that still holds only your template counts as empty, and quitting discards an empty note.
-- Copying gives the Markdown as plain text, and Select All highlights the whole note.
-- Toasts are a compact pill you can click away. They sit above the footer and over cards, stay above floating windows and the notch, and no longer stick on screen.
-
-### Fixed
-
-- The caret starts at the end of the note on launch.
+- The panel remembers its size and position.
 

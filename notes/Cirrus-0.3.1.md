@@ -1,7 +1,7 @@
 
-The welcome note catches up with the new name.
+A fix for the welcome note.
 
 ### Fixed
 
-- The welcome note on a new install shows the Cirrus banner.
+- The welcome note shows the Cirrus name.
 

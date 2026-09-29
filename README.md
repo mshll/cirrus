@@ -9,6 +9,8 @@
 <p align="center">
   <a href="https://trycirrus.app/download"><b>Download</b></a>
   &nbsp;·&nbsp;
+  <a href="https://apps.apple.com/app/id6815418493">Mac App Store</a>
+  &nbsp;·&nbsp;
   <a href="https://trycirrus.app">Website</a>
   &nbsp;·&nbsp;
   <a href="https://trycirrus.app/changelog">Changelog</a>
@@ -29,13 +31,13 @@ Press `⌃⌘N` from any app and a note appears over whatever you're doing. Writ
 
 ## Install
 
-[Download the DMG](https://trycirrus.app/download), or use Homebrew:
+[Download the DMG](https://trycirrus.app/download), get it from the [Mac App Store](https://apps.apple.com/app/id6815418493), or use Homebrew:
 
 ```sh
 brew install --cask mshll/tap/cirrus
 ```
 
-Requires macOS 14 or later. Updates install from inside the app.
+Requires macOS 14 or later. The direct download updates itself from inside the app; the App Store keeps its version up to date.
 
 ## Feedback
 

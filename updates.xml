@@ -3,6 +3,23 @@
     <channel>
         <title>Umber</title>
         <item>
+            <title>0.5.3</title>
+            <pubDate>Thu, 01 Oct 2026 22:12:56 +0300</pubDate>
+            <link>https://trycirrus.app</link>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/mshll/cirrus/main/notes/Cirrus-0.5.3.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/mshll/cirrus/releases/download/v0.5.3/Cirrus.dmg" length="25988654" type="application/octet-stream" sparkle:edSignature="jNnbaa7MH3JyblxDonmeFILE+8rzSnLqbecVx9Wir5zeAcH+B9RsAixYyNT2DjnxF3RoPXbo4oy6ilg9JN5YCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/mshll/cirrus/releases/download/v0.5.3/Cirrus23-22.delta" sparkle:deltaFrom="22" length="867190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="goe03DG5y/15MdXVEC9FqzH18Peo7KcTN68JDiYpocNmLPA5m6HYHUxeu6LJiI5e3TUS1NABWUcX1J6837qTDg=="/>
+                <enclosure url="https://github.com/mshll/cirrus/releases/download/v0.5.3/Cirrus23-21.delta" sparkle:deltaFrom="21" length="2249354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Tu4B7gtV7tyfLOzEiCEDt7B/JdqlLLEoVkguE094fIPyEh4hUKS1BZUntduE0YCuCxsEG+aJDqmd6brtv0gDAw=="/>
+                <enclosure url="https://github.com/mshll/cirrus/releases/download/v0.5.3/Cirrus23-20.delta" sparkle:deltaFrom="20" length="3113306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ipvq88xYKg0kPDMiv3yL3aljDvvn9zQ0JGa9tuc5hIDhB9vS529G0Q140cG9fECSHMQAhhrfqUt1I3JvadyJBg=="/>
+                <enclosure url="https://github.com/mshll/cirrus/releases/download/v0.5.3/Cirrus23-19.delta" sparkle:deltaFrom="19" length="3324758" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/zP/v6LXYjXc8HjQ3T8xkS5IZdA2YoKi6l1g2jyXklCTuhYwxAkMuOHkIIu0Y42Z6hP1X1eP52e/T5qgs0plAA=="/>
+                <enclosure url="https://github.com/mshll/cirrus/releases/download/v0.5.3/Cirrus23-18.delta" sparkle:deltaFrom="18" length="3552430" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FAi6ljabnDaQ/QF4Cw3LbQw2O2qx8CrbKWAzIQ25AC21lbxfe1YHtKnYTRdN4zLiKgOejTnLPv2ZjfSDVmfWBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.5.2</title>
             <pubDate>Tue, 29 Sep 2026 18:21:52 +0300</pubDate>
             <link>https://trycirrus.app</link>

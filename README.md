@@ -34,7 +34,7 @@ Press `⌃⌘N` from any app and a note appears over whatever you're doing. Writ
 [Download the DMG](https://trycirrus.app/download), get it from the [Mac App Store](https://apps.apple.com/app/id6815418493), or use Homebrew:
 
 ```sh
-brew install --cask mshll/tap/cirrus
+brew install --cask mshll/tap/cirrus-notes
 ```
 
 Requires macOS 14 or later. The direct download updates itself from inside the app; the App Store keeps its version up to date.

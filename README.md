@@ -32,7 +32,7 @@ Press `⌃⌘N` from any app and a note appears over whatever you're doing. Writ
 [Download the DMG](https://trycirrus.app/download), or use Homebrew:
 
 ```sh
-brew install --cask mshll/tap/cirrus
+brew install --cask mshll/tap/cirrus-notes
 ```
 
 Requires macOS 14 or later. Updates install from inside the app.
